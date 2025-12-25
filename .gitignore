@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+ENV/
+data/
+*.csv
+*.joblib
+*.h5
+*.ipynb_checkpoints/
+.DS_Store
